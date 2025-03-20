@@ -4,6 +4,12 @@ INTERN ID:CT12GGJ
 DOMAIN:FULL STACK WEB DEVELOPMENT
 DURATION:8 WEEKS 
 MENTOR:NEELA SANTOSH
+
+
+
+
+
+
 API integration is the process of connecting two or more software applications to enable them to communicate and exchange data seamlessly. When working with APIs, developers often use tools like Visual Studio Code (VS Code) to write, test, and debug their code. An API key is typically required for authenticating requests made to an API, especially when using external services like weather data providers, payment gateways, or AI-based tools.
 Setting Up VS Code
 
